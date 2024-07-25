@@ -1,0 +1,75 @@
+header{
+    background-color: rgb(236, 153, 153);
+    width: auto;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+img{
+    margin: 0%;
+    padding: 0px;
+    width: 170px;
+    height: 80px;
+    position: absolute;
+    overflow: hidden;
+}
+.g1{
+    color: aquamarine;
+    margin: 0%;
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+    }
+    .g1 .a:{
+        text-decoration: none;
+        list-style-type: none;
+    }
+    .paspausk:{
+        text-decoration: none;
+        list-style-type: none;
+        display: flex;
+        justify-content: end;
+    }
+
+
+.navigacija{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    list-style-type: none;
+}
+    .stulpelis{
+        text-decoration: none;
+            list-style-type: none;
+    
+    }
+       .eilute{
+        display: inline-block;
+        padding-inline: 20px;
+        text-decoration: none;
+            list-style-type: none;
+         }
+         .navigacija .stulpelis .eilute .a{
+            text-decoration: none;
+            list-style-type: none;
+        color: rgb(132, 0, 255);
+       }
+
+       button{
+        background-color: black;
+        color: antiquewhite;
+        width: 100px;
+        height: 30px;
+        font-display: flex;
+        justify-content: center;
+         }
+    
+
+       .main-banner{
+        width: auto ;
+        height: auto;
+        position: absolute;
+        }
+
